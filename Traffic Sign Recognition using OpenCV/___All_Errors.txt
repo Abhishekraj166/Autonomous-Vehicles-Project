@@ -1,5 +1,0 @@
-CorrelationId: 3f5620bd-9200-4a4a-99c0-95cfb81951ce
-UTC DateTime: 2/29/2020 9:50:35 PM
-
-The following file/folder has not been downloaded
-1. Compyter vision Project/FullIJCNN2013
